@@ -40,19 +40,19 @@ One of the ideas that sprung to mind when we first got in the XC4380 LED Strip M
 Start by soldering the short piece of header strip to the input end of each LED strip. This is the end that has the
 'DIN' marking.
 
-![](../images/NPI00005a.png)
+![](images/NPI00005a.png)
 
 Solder the three modules onto the Datalogging Shield in a tree shape, but make sure the ends aren’t pushed tight together, as we have to make some connections at the top. We found it easiest to solder one pin, and make sure all three strips were where we wanted them before soldering everything in place rigidly.
 
-![](../images/NPI00005b.png)
+![](images/NPI00005b.png)
 
 The position isn't critical, but if you follow what we've done, you'll be able to work out the wiring more easily. On the underside of the Datalogging Shield, run red and black wires for 5V (marked 4- 7VDC on the strips) and GND connections.
 
-![](../images/NPI00005c.png)
+![](images/NPI00005c.png)
 
 Run a wire from D6 to the DIN pin on the strip closest to it, and also run some wire from the DOUT on one strip to the DIN on the next strip- all the DINs should be connected to something. There's no reason you can't drape the wire around the strips a bit to make it look more like tinsel on the tree.
 
-![](../images/NPI00005d.png)
+![](images/NPI00005d.png)
 
 Finally take the Piezo Transducer, and solder the black wire to GND and the red wire to D9.
 
