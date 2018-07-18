@@ -25,8 +25,8 @@ One of the ideas that sprung to mind when we first got in the XC4380 LED Strip M
 
 
 ## Downloads
-* [Source code](../downloads/LED_Christmas_Tree_with_Music)
-* [Christmas Sounds](../downloads/Christmas_Sounds.zip)
+* [Source code](http://github.com/duinotech-LED-Musical-Christmas-Tree/archive/master.zip)
+* [Christmas Sounds](Christmas_Sounds.zip)
 
 ## Software Libraries
 |Library | Author
